@@ -1,4 +1,4 @@
-# 🤖 AI ChatBox
+# 🤖 AI ChatBot
 
 An intelligent chatbot built using **Python** and **Machine Learning** that can respond to user queries based on trained datasets.
 
@@ -51,3 +51,4 @@ python chatbot.py
 ## 👨‍💻 Author
 
 Shaik Razak
+
